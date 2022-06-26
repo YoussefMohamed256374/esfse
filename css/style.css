@@ -780,7 +780,9 @@ footer .contact .icons a i {
 		clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 	}
 
-	.home-landing .box-image {
+	
+	.home-landing .box-image,
+	.search-form{
 		display: none;
 	}
 
